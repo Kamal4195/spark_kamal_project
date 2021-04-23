@@ -53,3 +53,4 @@ print(top10)
 
 sns.barplot(xlabel, ylabel, data=top10, palette="Greens_d").set_title(title)
 ```
+![]()
